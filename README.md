@@ -2,7 +2,7 @@
 Project by course Big Data: Detection of anomalies in flight data.  
 
 Team: 
-- Babushkina Tatyana
+- Tatyana Babushkina
 - Johannes Darbinyan
 - Sergey Malyshevsky
 - Ivan Nikonov
