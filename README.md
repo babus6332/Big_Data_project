@@ -1,4 +1,4 @@
-# Big_Data_project
+# Big Data project
 Project by course Big Data: Detection of anomalies in flight data.  
 
 Team: 
